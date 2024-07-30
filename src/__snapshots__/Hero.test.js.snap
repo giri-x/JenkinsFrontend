@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero component renders correctly 1`] = `
+<div>
+  <div
+    class="hero"
+  >
+    <div
+      class="hero-left"
+    >
+      <h2>
+        GET YOUR DREAM CARRER
+      </h2>
+      <div>
+        <div
+          class="hero-hand-icon"
+        >
+          <p>
+            Technology
+          </p>
+          <img
+            alt=""
+            src="hand_icon.png"
+          />
+        </div>
+        <p>
+          made 
+        </p>
+        <p>
+          for everyone
+        </p>
+      </div>
+      <div
+        class="hero-latest-btn"
+      >
+        <div>
+          Apply for Job Now
+        </div>
+        <img
+          alt=""
+          src="arrow.png"
+        />
+      </div>
+    </div>
+    <div
+      class="hero-right"
+    >
+      <img
+        alt=""
+        src="hero_image.png"
+      />
+    </div>
+  </div>
+</div>
+`;
